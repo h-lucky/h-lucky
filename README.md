@@ -1,7 +1,7 @@
 Hi there 👋
-isJx/isjx is a ✨ special ✨
+h-lucky is a ✨ special ✨
 
-Yesterday: 🧱🧱  Today: 🧱🧱  Tomorrow: 🧱🧱
+Yesterday: 🧱🧱🧱🧱  Today: 🧱🧱🧱🧱  Tomorrow: 🧱🧱
 
 🔭 I’m currently working moving bricks 🧱🧱
 
