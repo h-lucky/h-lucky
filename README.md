@@ -1,13 +1,16 @@
-Hi there 👋
-h-lucky is a ✨ special ✨
+### Hi there 👋
 
-Yesterday: 🧱🧱🧱🧱  Today: 🧱🧱🧱🧱  Tomorrow: 🧱🧱
+**h-lucky** is a ✨ _special_ ✨
+🧱
+Yesterday:  🧱🧱🧱&emsp;&emsp;Today:  🧱🧱🧱&emsp;&emsp;Tomorrow:  🧱🧱
 
-🔭 I’m currently working moving bricks 🧱🧱
+---
 
-📫 How to reach me: developer9818@gmail.com
+- 🔭 I’m currently working moving bricks 🧱🧱
 
-⚡ Fun fact: ...
+- 📫 How to reach me: developer9818@gmail.com
+
+- ⚡ Fun fact: ...
 ---  
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
