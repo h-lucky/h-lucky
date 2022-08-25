@@ -1,13 +1,10 @@
-# lucky.md
-你好呀👋
-isJx/isjx是一个✨ 特别的 ✨
+Hi there 👋
+isJx/isjx is a ✨ special ✨
 
-昨天： 🧱🧱  今天： 🧱🧱  明天： 🧱🧱
+Yesterday: 🧱🧱  Today: 🧱🧱  Tomorrow: 🧱🧱
 
-🔭我现在正在搬砖🧱🧱
+🔭 I’m currently working moving bricks 🧱🧱
 
-📫如何联系我：developer9818@gmail.com
+📫 How to reach me: developer9818@gmail.com
 
-⚡有趣的事实： ...
-
-HTML5 CSS3 JavaScript Vue.js 节点
+⚡ Fun fact: ...
